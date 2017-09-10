@@ -7,10 +7,13 @@
 ### How do I get set up? ###
 
 -> KeyRequestor
+
    AppInstallationHandler_C# / KeyReq / key-req / bin / Debug / key-req.exe
 
 -> KeyGenerator
+
    AppInstallationHandler_C# / EncryptKey / EncryptionSample / bin / Debug / EncryptionSample.exe
 
 ->A Sample login application
+
    AppInstallationHandler_C# / WelcomePage / welcome / bin / Debug / welcome.exe
